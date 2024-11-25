@@ -15,7 +15,7 @@ Download pre-trained classification weights of the [ResNet-50](https://***), [Re
 
 Download images from [COCO](https://cocodataset.org/#download).
 Please use the first downloading link *2014 Train images [83K/13GB]*, and extract
-the downloaded `train_2014.zip` file to `./data/images/mscoco/images`.
+the downloaded `train_2014.zip` file to `./data/images/`.
 
 ### Train
 Please download the pre-trained model weights and dataset first. Next, generate the path lists of the training set and the test set, and change the dataset path in the code to the path of the dataset listing file (.txt) you specified.
