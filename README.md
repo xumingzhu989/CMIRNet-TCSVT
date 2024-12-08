@@ -9,7 +9,7 @@ Download pre-trained classification weights of the [ResNet-50](https://download.
 
 ### Trained Weights of CMIRNet for Testing
 
-[Download](https://pan.baidu.com/***)
+[Download](https://pan.baidu.com/***). (Coming soon)
 
 ### Dataset
 
