@@ -30,7 +30,7 @@ python train_swin.py --model_id cmirnet_refcoco_swin --device cuda:0
 
 python train_swin.py --model_id cmirnet_refcocop_swin --device cuda:0 --dataset refcoco+
 
-python train_swin.py --model_id cmirnet_refcocop_swin --device cuda:0 --dataset refcocog --splitBy umd
+python train_swin.py --model_id cmirnet_refcocog_swin --device cuda:0 --dataset refcocog --splitBy umd
 ~~~
 
 ### Test
