@@ -55,8 +55,14 @@ python test_swin.py --device cuda:0 --resume path/to/weights --dataset refcocog 
 If it helps your research,  please use the information below to cite our work, thank you. 
 
 ~~~
-@ARTICLE{
-
-}
-Coming soon
+@ARTICLE{10771801,
+  author={Xu, Mingzhu and Xiao, Tianxiang and Liu, Yutong and Tang, Haoyu and Hu, Yupeng and Nie, Liqiang},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
+  title={CMIRNet: Cross-Modal Interactive Reasoning Network for Referring Image Segmentation}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-1},
+  keywords={Visualization;Feature extraction;Semantics;Linguistics;Cognition;Decoding;Circuits and systems;Encoding;Semantic segmentation;Computer architecture;Referring Image Segmentation;Vision and Language;Cross Modal Reasoning;Graph Neural Network},
+  doi={10.1109/TCSVT.2024.3508752}}
 ~~~
