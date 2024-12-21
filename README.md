@@ -55,7 +55,7 @@ python test_swin.py --device cuda:0 --resume path/to/weights --dataset refcocog 
 If it helps your research,  please use the information below to cite our work, thank you. 
 
 ~~~
-@ARTICLE{10771801,
+@ARTICLE{CMIRNet,
   author={Xu, Mingzhu and Xiao, Tianxiang and Liu, Yutong and Tang, Haoyu and Hu, Yupeng and Nie, Liqiang},
   journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
   title={CMIRNet: Cross-Modal Interactive Reasoning Network for Referring Image Segmentation}, 
