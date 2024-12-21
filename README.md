@@ -5,7 +5,7 @@ Welcome to the official repository for the paper "CMIRNet: Cross-Modal Interacti
 ![the pipeline of CMIRNet](./CMIRNet.png)
 
 ### The Initialization Weights for Training
-Download pre-trained classification weights of the [ResNet-50](https://download.pytorch.org/models/resnet50-19c8e357.pth), [ResNet-101](https://download.pytorch.org/models/resnet101-5d3b4d8f.pth), [Swin-Transformer-Base](https://github.com/SwinTransformer/storage/releases/download/v1.0.0/swin_base_patch4_window12_384_22k.pth) and [Swin-Transformer-Large](https://github.com/SwinTransformer/storage/releases/download/v1.0.0/swin_large_patch4_window12_384_22k.pth), and place the ` .pth ` files in ` ./pretrained ` directory. These weights are essential for initializing the model during training.
+Download pre-trained classification weights of the [ResNet-50](https://download.pytorch.org/models/resnet50-19c8e357.pth), [ResNet-101](https://download.pytorch.org/models/resnet101-5d3b4d8f.pth), [Swin-Transformer-Base](https://github.com/SwinTransformer/storage/releases/download/v1.0.0/swin_base_patch4_window12_384_22k.pth) and [Swin-Transformer-Large](https://github.com/SwinTransformer/storage/releases/download/v1.0.0/swin_large_patch4_window12_384_22k.pth). These weights are essential for initializing the model during training.
 
 ### Trained Weights of CMIRNet for Testing
 
